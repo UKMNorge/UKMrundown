@@ -1,0 +1,3 @@
+ukmrundown_front:
+    path: /meh
+    defaults: { _controller: AppBundle:Default:index }

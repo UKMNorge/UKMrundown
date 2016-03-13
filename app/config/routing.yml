@@ -1,3 +1,6 @@
+ukm_rundown:
+    resource: "@UKMRundownBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
-    resource: @AppBundle/Controller/
-    type:     annotation
+    resource: '@AppBundle/Resources/config/routing.yml'
