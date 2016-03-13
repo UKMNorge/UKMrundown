@@ -34,10 +34,10 @@ class AppKernel extends Kernel
     }
     public function getCacheDir()
     {
-        return '/tmp/symfony/ukmdelta/cache/';
+        return '/tmp/symfony/ukmrundown/cache/';
     }
 	public function getLogDir()
     {
-        return '/tmp/symfony/ukmdelta/log/';
+        return '/tmp/symfony/ukmrundown/log/';
     }
 }
